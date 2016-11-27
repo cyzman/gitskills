@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-hahhaha
-a new branch is quick and simple
-=======
 hahhah
 a new branch is quick and simple.
->>>>>>> feature1
+a new merge
